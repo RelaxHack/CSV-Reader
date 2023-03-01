@@ -1,2 +1,2 @@
 # CSV-Reader
-The program must read an arbitrary CSV form from a file (there can be any number of rows and columns), calculate cell values if necessary, and output the resulting table as a CSV representation to the console
+Given a CSV file (comma-separated values) with a header that lists the column names. Lines are numbered with positive integers, not necessarily in ascending order. The cells of a CSV file can store either integers or expressions. The program must read an arbitrary CSV form from a file (there can be any number of rows and columns), calculate cell values if necessary, and output the resulting table as a CSV representation to the console
